@@ -2,6 +2,10 @@
 
 This repository serves as a boilerplate for creating Telegram bots using .NET Core. It includes examples of how to send text messages, photos, and files. Additionally, it features a built-in HTTP request/response tracker to log all HTTP interactions made by the bot.
 
+### HTTP Log Viewer for Analyzing Captured Logs
+
+For a convenient and user-friendly way to analyze HTTP request and response logs captured using this Telegram bot boilerplate solution, check out the [HTTP Log Viewer repository](https://github.com/anton-salata/http-log-viewer). It provides a comprehensive web-based interface to visualize, search, and interpret the captured logs effortlessly.
+
 ![UI Screenshot](images/ui.png)
 
 ## Features

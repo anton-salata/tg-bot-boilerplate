@@ -1,8 +1,8 @@
 # Telegram Bot Boilerplate Project
 
-![UI Screenshot](images/ui.png)
-
 This repository serves as a boilerplate for creating Telegram bots using .NET Core. It includes examples of how to send text messages, photos, and files. Additionally, it features a built-in HTTP request/response tracker to log all HTTP interactions made by the bot.
+
+![UI Screenshot](images/ui.png)
 
 ## Features
 
